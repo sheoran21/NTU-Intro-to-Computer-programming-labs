@@ -38,7 +38,7 @@ Nottingham Trent University
 United Kingdom  
 
 ## My GitHub: https://github.com/sheoran21
-## My email - ashoksheoran409@gmail.Com
+## My email - ashoksheoran409@gmail.com
 
 # #Please Note:
 This repository is maintained for academic learning and documentation purposes.  
